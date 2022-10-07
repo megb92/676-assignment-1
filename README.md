@@ -2,8 +2,8 @@
 
 GENERAL INFORMATION
 
-Title of Dataset: File Metadata Manifest
-Author: Meghan Berry (megberry@umich.edu)
+Title of Dataset: File Metadata Manifest   
+Author: Meghan Berry (megberry@umich.edu)   
 Date Created: 2022-10-07
 
 DATA & FILE OVERVIEW
