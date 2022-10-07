@@ -6,7 +6,7 @@ Title of Dataset: File Metadata Manifest
 Author: Meghan Berry (megberry@umich.edu)   
 Date Created: 2022-10-07
 
-DATA & FILE OVERVIEW
+DATA & FILE OVERVIEW  
 Data Source: https://github.com/morskyjezek/networked-services-labs
 File List:   
 file-metadata-manifest.csv (manifest of files contained in networked-services-labs/data directory)  
